@@ -1,0 +1,14 @@
+# Composer dependencies
+/vendor/
+
+# Composer lock for library workflow
+/composer.lock
+
+# PHPUnit cache
+/.phpunit.cache/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
